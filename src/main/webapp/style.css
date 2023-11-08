@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: lightblue;
+}
+
+.main-container img {
+	mix-blend-mode: darken;
+}
+
+.main-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+
+h1 {
+	text-shadow: 55q;
+	color: rgb(32, 222, 220);
+}
